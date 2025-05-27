@@ -109,6 +109,15 @@ github.com/kubernetes-csi/external-snapshotter/client/v8/informers/externalversi
 github.com/kubernetes-csi/external-snapshotter/client/v8/informers/externalversions/volumesnapshot/v1
 github.com/kubernetes-csi/external-snapshotter/client/v8/listers/volumegroupsnapshot/v1beta1
 github.com/kubernetes-csi/external-snapshotter/client/v8/listers/volumesnapshot/v1
+# github.com/kubernetes-csi/external-snapshotter/v8 v8.2.1
+## explicit; go 1.23.6
+github.com/kubernetes-csi/external-snapshotter/v8/pkg/common-controller
+github.com/kubernetes-csi/external-snapshotter/v8/pkg/features
+github.com/kubernetes-csi/external-snapshotter/v8/pkg/group_snapshotter
+github.com/kubernetes-csi/external-snapshotter/v8/pkg/metrics
+github.com/kubernetes-csi/external-snapshotter/v8/pkg/sidecar-controller
+github.com/kubernetes-csi/external-snapshotter/v8/pkg/snapshotter
+github.com/kubernetes-csi/external-snapshotter/v8/pkg/utils
 # github.com/mailru/easyjson v0.9.0
 ## explicit; go 1.20
 github.com/mailru/easyjson/buffer

@@ -1,4 +1,4 @@
-module github.com/kubernetes-csi/external-snapshotter/v8
+module github.com/ShravaniVangur/fork-external-snapshotter/v8
 
 go 1.24.0
 
@@ -11,6 +11,7 @@ require (
 	github.com/kubernetes-csi/csi-lib-utils v0.22.0
 	github.com/kubernetes-csi/csi-test/v5 v5.3.1
 	github.com/kubernetes-csi/external-snapshotter/client/v8 v8.2.0
+	github.com/kubernetes-csi/external-snapshotter/v8 v8.2.1
 	github.com/prometheus/client_golang v1.22.0
 	github.com/prometheus/client_model v0.6.1
 	github.com/prometheus/common v0.62.0
